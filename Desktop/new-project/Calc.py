@@ -5,3 +5,7 @@ while y !=0:
     calc += y * x
     y -= 1
 print(calc)
+print('Hellow world')
+ def calculation(x,x2):
+     i = 0
+     i += x ** x2
